@@ -7,5 +7,8 @@ public class GitDao {
 
     public static void main(String[] args) {
         System.out.println("hello this  is a test");
+
+
+        System.out.println("this is a good time");
     }
 }
