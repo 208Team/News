@@ -6,6 +6,9 @@ package com.service;
 public class ServiceTest {
     public static void main(String[] args) {
         System.out.println("this is 啊");
+
+
+        System.out.println("this is a second english");
     }
 
 }
